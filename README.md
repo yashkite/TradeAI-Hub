@@ -23,6 +23,11 @@ To get started with TradeAI-Hub, follow these steps:
 3. Consult the documentation for implementation details and best practices.
 4. Contribute your own AI trading strategies to enrich our trading bot library.
 
+## Figma Ref
+
+https://www.figma.com/file/nwFS6IFrW5Jre1wDNX0gJ8/Trading-Idea?type=design&node-id=0%3A1&mode=design&t=bBRaWeqF9d6QdGrT-1
+
+
 ## Contributing
 
 We welcome contributions from the trading and AI community. If you have innovative trading algorithms, improvements, or bug fixes, please open a pull request. Be sure to review our contribution guidelines before submitting.
